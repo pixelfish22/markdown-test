@@ -1,9 +1,9 @@
 # Test making multiple cards
 
-<div>
+<p>
 Hello, this is a div
-</div>
+</p>
 
-<div>
+<p>
 This is another div.
-</div>
+</p>
