@@ -1,15 +1,14 @@
 # Troubleshooting
 
-## This doc is three levels deep
-
-<p>
-## Subheader
+Card 1
+-------------
 Assertively enhance open-source ideas through innovative experiences. Competently streamline cooperative paradigms after adaptive value. Competently.
-</p>
+-------------
 
-### Sub sub header
-
+Card 2
+-------------
 Monotonectally harness maintainable bandwidth for cross-unit niche markets. Dramatically iterate error-free relationships for customer directed opportunities. Distinctively architect enterprise networks through B2B strategic theme areas. Competently maximize functionalized functionalities.
+-------------
 
 #### Submarine header
 
