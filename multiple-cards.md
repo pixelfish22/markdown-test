@@ -1,12 +1,12 @@
 # Troubleshooting
 
-<h1>
+<p>
 Assertively enhance open-source ideas through innovative experiences. Competently streamline cooperative paradigms after adaptive value. Competently.
-</h1>
+</p>
 
-<h1>
+<p>
 Monotonectally harness maintainable bandwidth for cross-unit niche markets. Dramatically iterate error-free relationships for customer directed opportunities. Distinctively architect enterprise networks through B2B strategic theme areas. Competently maximize functionalized functionalities.
-</h1>
+</p>
 
 #### Submarine header
 
