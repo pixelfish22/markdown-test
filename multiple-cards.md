@@ -2,8 +2,6 @@
 
 Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah
 
-<p>
-Some text above the component call.
 ```sps
 {
   "component": "TipBlockWrapper",
@@ -13,13 +11,10 @@ Some text above the component call.
   }
 }
 ```
-</p>
 
 More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah More blah
 
-<p>
 Monotonectally harness maintainable bandwidth for cross-unit niche markets. Dramatically iterate error-free relationships for customer directed opportunities. Distinctively architect enterprise networks through B2B strategic theme areas. Competently maximize functionalized functionalities.
-</p>
 
 Another Change. Hi.
 
