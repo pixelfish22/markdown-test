@@ -1,12 +1,21 @@
 # Troubleshooting
 
-<p>
+<div>
+Some text above the component call.
+```sps
+{
+  "component": "TipBlockWrapper",
+  "props": {
+      "preset": "tip",
+      "description": "Being able to save business rules and apply them to multiple trading partners will allow you to streamline and shorten implementation timelines"
+  }
+}
 ```
-Assertively enhance open-source ideas through innovative experiences. Competently streamline cooperative paradigms after adaptive value. Competently.
-```
-</p>
+</div>
 
+<div>
 Monotonectally harness maintainable bandwidth for cross-unit niche markets. Dramatically iterate error-free relationships for customer directed opportunities. Distinctively architect enterprise networks through B2B strategic theme areas. Competently maximize functionalized functionalities.
+</div>
 
 Another Change.
 
