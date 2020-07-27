@@ -1,6 +1,6 @@
 # Troubleshooting
 
-<div>
+<p>
 Some text above the component call.
 ```sps
 {
@@ -11,11 +11,11 @@ Some text above the component call.
   }
 }
 ```
-</div>
+</p>
 
-<div>
+<p>
 Monotonectally harness maintainable bandwidth for cross-unit niche markets. Dramatically iterate error-free relationships for customer directed opportunities. Distinctively architect enterprise networks through B2B strategic theme areas. Competently maximize functionalized functionalities.
-</div>
+</p>
 
 Another Change.
 
